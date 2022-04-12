@@ -50,6 +50,11 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     paddingLeft: 20,
   },
+  exhibitionResultImc: {
+    width: "100%",
+    height: "50%",
+    alignItems: "center",
+  },
 });
 
 export default styles;
